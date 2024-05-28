@@ -1,4 +1,3 @@
-
 {
 	"publisher": "Silitonix",
 	"name": "gru",
@@ -25,9 +24,9 @@
 		"Themes"
 	],
 	"repository": {
-    "type": "git",
-    "url": "https://github.com/Silitonix/GruTheme.git"
-  },
+		"type": "git",
+		"url": "https://github.com/Silitonix/GruTheme.git"
+	},
 	"contributes": {
 		"themes": [
 			{
