@@ -30,7 +30,7 @@
 		<Dependencies/>
 		<Assets>
 			<Asset Type="Microsoft.VisualStudio.Code.Manifest" Path="extension/package.json" Addressable="true" />
-			<Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md" Addressable="true" />
+			<Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="README.md" Addressable="true" />
 			<Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/icons/icon.png" Addressable="true" />
 		</Assets>
 	</PackageManifest>
