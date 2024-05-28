@@ -2,7 +2,7 @@
 
 good for productivity and you muscles
 
-![ui](/icons/ui.png)
+![ui](https://github.com/Silitonix/GruTheme/raw/master/icons/ui.png)
 
 ## donate 🪙
 - BTC: ```1JDg2asdRsqayupCCL2VhrcVozHoA2X4uD```
