@@ -1,0 +1,35 @@
+{
+	"publisher": "Silitonix",
+	"name": "gru",
+	"displayName": "Gru",
+	"description": "Gru theme for VSCode",
+	"version": "0.1.0",
+	"engines": {
+		"vscode": "^1.72.0"
+	},
+	"icon": "icons/icon.png",
+	"keywords": [
+		"gru",
+		"night",
+		"night colors",
+		"night gru",
+		"dark colors",
+		"gru",
+		"pink",
+		"colorful",
+		"dark mode",
+		"syntax"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "gru",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Gru.json"
+			}
+		]
+	}
+}
