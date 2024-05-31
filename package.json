@@ -1,0 +1,29 @@
+{
+  "name": "gru",
+  "displayName": "Gru",
+  "description": "gruvbox like theme but more modern",
+  "version": "0.0.1",
+  "publisher": "Silitonix",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Silitonix/GruTheme"
+  },
+  "keywords": [
+    "gru","gruvbox","gruv","theme","dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gru",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gru-color-theme.json"
+      }
+    ]
+  }
+}
