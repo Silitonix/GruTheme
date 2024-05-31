@@ -25,5 +25,6 @@
         "path": "./themes/Gru-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png"
 }
