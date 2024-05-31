@@ -2,7 +2,7 @@
 
 good for productivity and you muscles
 
-![ui](https://github.com/Silitonix/GruTheme/raw/master/resources/ui.png)
+![ui](https://github.com/Silitonix/GruTheme/raw/master/Resources/ui.png)
 
 ## donate 🪙
 
