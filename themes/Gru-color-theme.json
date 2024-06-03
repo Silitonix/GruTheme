@@ -84,7 +84,7 @@
       "name": "Function",
       "scope": "entity.name.function, support.function, meta.function, meta.function-call, meta.definition.method",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#89b482"
       }
     },
     {
@@ -423,26 +423,20 @@
       }
     },
     {
-      "name": "Html orange",
+      "name": "Html red",
       "scope": "entity.name.tag.html, entity.name.tag.xml, entity.name.tag.localname.xml",
       "settings": {
-        "foreground": "#e78a4e"
+        "foreground": "#ea6962"
       }
     },
     {
-      "name": "Html yellow",
+      "name": "Html white",
       "scope": "entity.other.attribute-name.html, entity.other.attribute-name.xml, entity.other.attribute-name.localname.xml",
       "settings": {
-        "foreground": "#d8a657"
+        "foreground": "#d4be98"
       }
     },
-    {
-      "name": "Html green",
-      "scope": "string.quoted.double.html, string.quoted.single.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html, punctuation.separator.key-value.html, punctuation.definition.string.begin.xml, punctuation.definition.string.end.xml, string.quoted.double.xml, string.quoted.single.xml, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.definition.tag.xml, meta.tag.xml, meta.tag.preprocessor.xml, meta.tag.other.html, meta.tag.block.any.html, meta.tag.inline.any.html",
-      "settings": {
-        "foreground": "#a9b665"
-      }
-    },
+    
     {
       "name": "Html purple",
       "scope": "variable.language.documentroot.xml, meta.tag.sgml.doctype.xml",
@@ -669,7 +663,7 @@
     },
     {
       "name": "TSX white",
-      "scope": "entity.name.type.module.tsx",
+      "scope": "entity.name.type.module.tsx,entity.other.attribute-name.tsx",
       "settings": {
         "foreground": "#d4be98"
       }
@@ -682,8 +676,15 @@
       }
     },
     {
+      "name": "TSX red",
+      "scope":"support.class.component.tsx, entity.name.tag.tsx",
+      "settings": {
+        "foreground": "#ea6962"
+      }
+    },
+    {
       "name": "TSX green",
-      "scope": "punctuation.definition.tag.directive.tsx, entity.other.attribute-name.directive.tsx, punctuation.definition.tag.begin.tsx, punctuation.definition.tag.end.tsx, entity.other.attribute-name.tsx",
+      "scope": "punctuation.definition.tag.directive.tsx, entity.other.attribute-name.directive.tsx, punctuation.definition.tag.begin.tsx, punctuation.definition.tag.end.tsx",
       "settings": {
         "foreground": "#a9b665"
       }
@@ -711,7 +712,7 @@
     },
     {
       "name": "TSX orange",
-      "scope": "storage.type.tsx, storage.type.function.arrow.tsx, storage.type.type.tsx, support.class.component.tsx",
+      "scope": "storage.type.tsx, storage.type.function.arrow.tsx, storage.type.type.tsx",
       "settings": {
         "foreground": "#e78a4e"
       }
@@ -1907,17 +1908,10 @@
       }
     },
     {
-      "name": "JSON orange",
+      "name": "JSON red",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#e78a4e"
-      }
-    },
-    {
-      "name": "JSON green",
-      "scope": "string.quoted.double.json",
-      "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#ea6962"
       }
     },
     {
