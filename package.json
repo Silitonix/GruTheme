@@ -17,14 +17,36 @@
   "categories": [
     "Themes"
   ],
+  "extensionPack":[
+    "miguelsolorio.fluent-icons"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "Gru",
         "uiTheme": "vs-dark",
         "path": "./themes/Gru-color-theme.json"
+      },
+      {
+        "label": "Gru Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gru-color-theme-black.json"
       }
-    ]
+    ],
+    "iconThemes": [
+      {
+				"id": "gru-icons",
+				"label": "Gru icon",
+				"path": "themes/icons/theme.json"
+			}
+    ],
+    "productIconThemes": [
+			{
+				"id": "gru-product",
+				"label": "Gru Product",
+				"path": "./theme/product/theme.json"
+			}
+		]
   },
   "icon": "icon.png"
 }
