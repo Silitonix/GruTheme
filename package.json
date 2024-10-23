@@ -17,9 +17,6 @@
   "categories": [
     "Themes"
   ],
-  "extensionPack":[
-    "miguelsolorio.fluent-icons"
-  ],
   "contributes": {
     "themes": [
       {
@@ -37,14 +34,14 @@
       {
 				"id": "gru-icons",
 				"label": "Gru icon",
-				"path": "themes/icons/theme.json"
+				"path": "./themes/icons/theme.json"
 			}
     ],
     "productIconThemes": [
 			{
 				"id": "gru-product",
 				"label": "Gru Product",
-				"path": "./theme/product/theme.json"
+				"path": "./themes/product/theme.json"
 			}
 		]
   },
